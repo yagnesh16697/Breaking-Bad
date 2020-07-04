@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yagnesh16697.github.io/breaking-bad/static/css/main.71c485e1.chunk.css",
+    "main.js": "/yagnesh16697.github.io/breaking-bad/static/js/main.c7f0df4a.chunk.js",
+    "main.js.map": "/yagnesh16697.github.io/breaking-bad/static/js/main.c7f0df4a.chunk.js.map",
+    "runtime-main.js": "/yagnesh16697.github.io/breaking-bad/static/js/runtime-main.5885bf66.js",
+    "runtime-main.js.map": "/yagnesh16697.github.io/breaking-bad/static/js/runtime-main.5885bf66.js.map",
+    "static/js/2.a17eb287.chunk.js": "/yagnesh16697.github.io/breaking-bad/static/js/2.a17eb287.chunk.js",
+    "static/js/2.a17eb287.chunk.js.map": "/yagnesh16697.github.io/breaking-bad/static/js/2.a17eb287.chunk.js.map",
+    "index.html": "/yagnesh16697.github.io/breaking-bad/index.html",
+    "precache-manifest.0a3c4e28c5df85da626eee6575f992a8.js": "/yagnesh16697.github.io/breaking-bad/precache-manifest.0a3c4e28c5df85da626eee6575f992a8.js",
+    "service-worker.js": "/yagnesh16697.github.io/breaking-bad/service-worker.js",
+    "static/css/main.71c485e1.chunk.css.map": "/yagnesh16697.github.io/breaking-bad/static/css/main.71c485e1.chunk.css.map",
+    "static/js/2.a17eb287.chunk.js.LICENSE.txt": "/yagnesh16697.github.io/breaking-bad/static/js/2.a17eb287.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/yagnesh16697.github.io/breaking-bad/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/yagnesh16697.github.io/breaking-bad/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/yagnesh16697.github.io/breaking-bad/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5885bf66.js",
+    "static/js/2.a17eb287.chunk.js",
+    "static/css/main.71c485e1.chunk.css",
+    "static/js/main.c7f0df4a.chunk.js"
+  ]
+}
